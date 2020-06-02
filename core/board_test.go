@@ -1,8 +1,7 @@
-package main
+package core
 
-import (
-	"testing"
-)
+import "testing"
+
 
 func TestBoard_GetCellAtLinearIndex(t *testing.T) {
 	// Arrange
